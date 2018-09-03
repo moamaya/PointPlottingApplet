@@ -1,5 +1,3 @@
-Assignment: Swing Project Option 4
-
 Title: Plotting App
 
 Name: Marlo Amaya
